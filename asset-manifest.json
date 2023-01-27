@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leonardomiranda99/react.git/static/css/main.9da7e221.css",
+    "main.js": "/leonardomiranda99/react.git/static/js/main.f3977109.js",
+    "index.html": "/leonardomiranda99/react.git/index.html",
+    "main.9da7e221.css.map": "/leonardomiranda99/react.git/static/css/main.9da7e221.css.map",
+    "main.f3977109.js.map": "/leonardomiranda99/react.git/static/js/main.f3977109.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da7e221.css",
+    "static/js/main.f3977109.js"
+  ]
+}
